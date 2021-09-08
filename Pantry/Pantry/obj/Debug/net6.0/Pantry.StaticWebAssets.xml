@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Pantry" Path="C:\Users\james\source\repos\Pantry\Pantry\Pantry\obj\Debug\net6.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Pantry" Path="C:\Users\james\source\repos\Pantry\Pantry\Pantry\obj\Debug\net6.0\scopedcss\projectbundle\" />
+</StaticWebAssets>
